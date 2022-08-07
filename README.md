@@ -1,6 +1,8 @@
 # About
 Seq2seq models have seen fruitful use across various tasks such as text summarization, speech recognition, question answering, and much more. They are preferred over other sequence modelling architectures due to their nature of being able to handle variable length input and/or output sequences (i.e., when the input or output is not of a fixed size). In this particular report, we will be looking at applying these 3 architectures in a machine translation task. More specifically, we shall be performing a character-level machine translation task of converting short English expressions to French.
 
+![tinywow_resize_4083638](https://user-images.githubusercontent.com/71750671/182954575-06ee441b-ced2-4c71-99b1-af581dce53b0.jpg)
+
 This project compares and contrasts 3 different sequence-to-sequence (seq2seq) architectures:
 
 1. Bidirectional LSTM encoder and an LSTM decoder
